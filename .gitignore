@@ -1,0 +1,14 @@
+.git
+.minecraft/config
+.minecraft/coremods
+.minecraft/defaultconfigs
+.minecraft/journeymap
+.minecraft/logs
+.minecraft/saves
+.minecraft/schematics
+.minecraft/screenshots
+.minecraft/server-resource-packs
+.minecraft/options.txt
+.minecraft/optionsof.txt
+.minecraft/realms_persistence.json
+.minecraft/usercache.json
