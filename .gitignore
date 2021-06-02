@@ -12,3 +12,4 @@
 .minecraft/optionsof.txt
 .minecraft/realms_persistence.json
 .minecraft/usercache.json
+.minecraft/.mixin\.out
