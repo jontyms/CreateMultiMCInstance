@@ -9,7 +9,6 @@
 .minecraft/screenshots
 .minecraft/server-resource-packs
 .minecraft/options.txt
-.minecraft/optionsof.txt
 .minecraft/realms_persistence.json
 .minecraft/usercache.json
 .minecraft/.mixin\.out
